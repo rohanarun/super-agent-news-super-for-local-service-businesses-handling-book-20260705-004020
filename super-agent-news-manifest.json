@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[citybiz.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3J5cnd4ZEJuZkxtdG0xYUlMVkswQ21Tak05MExlc0xwdzBDU1dJOXdlb2NuOEUwZEJYRTlOdnN6Y2p1MXpmd25TVWQycDJLUXZya09lS1NpdW1wazhESHhwYjZ3cG9vcGoxbHJlTlB5NUI5dzF3THFHR3hCOHVKQWFUMzdVbFZ0UjRWQUowTVBqdVdJbE1QZVdoeTJkNEZ2Y3V3dUxvV1pvZWZyYVNvWGNZdzVDSnNOTmZzNmtxSGJNVlN5M1dYbmdfS0h4SWQ2Y1JGZQ?oc=5)",
+    "[yahoo.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNODFlbFplSnZYVjJ5aURud2I3RHlsTnlyV0szUnRWdnM1M3NJQ0UweXNOSFlSTHlXajBvU2t4RmVVR05tMlR2YS1odWIyQlpMemFjS3NoMUk5Vlc4dm4tRXlTWnRYTmtuWVkwYWdrTGxMeWhXRjc4ZW1ST2FmdkxVRlNuMjlDZGtNTHAtMGRxUFpWZmVZaTVISmRLSC1UdGs?oc=5)",
+    "[aimultiple.com](https://news.google.com/rss/articles/CBMiREFVX3lxTFBJX1FvZk1peHRfTWNUUGhUdE9EMXBpNXpfSkhEdDNkZWpycllGWC13bFdEU1dRSTQ1aDVPXy01N25PczZV?oc=5)",
+    "[scmedia.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)",
+    "[tools.jlvextension.com](https://tools.jlvextension.com/hero-section-generator/)",
+    "[kimik2ai.com](https://kimik2ai.com/design-to-code/)"
+  ],
+  "design_plan": "rng=42; AIDA checked; hero centered with max-width\u22481120px; hero math validated for 2\u20133 lines; bento density verified via grid-auto-flow:dense; competitor label sweep complete; button contrast black/white pills confirmed; responsive pass <768px and <480px; accessibility basics (focus, alt, semantic tags) included.",
+  "generated_at": "2026-07-05T00:40:26.748325+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused, editorial landing page for local service businesses that need an AI agent to actually run booking systems, quote tools, and inboxes. Built on the same visual architecture as Super\u2019s best comparison pages, this page positions Super as the sharper alternative for durable, repeated computer\u2011use workflows thanks to its reusable computer\u2011use cache."
+}
